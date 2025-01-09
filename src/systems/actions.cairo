@@ -70,7 +70,6 @@ pub mod actions {
             println!("WIDTH: {}", maze_map.width);
             println!("HEIGHT: {}", maze_map.height);
             println!("GRID: {}", maze_map.grid);
-            println!("SEED: {}", maze_map.seed);
         }
     }
 
